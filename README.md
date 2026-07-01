@@ -2,8 +2,7 @@
 
 This repository points to the official implementation for our paper:
 
-**ImageNet-LC: Assessing Robustness under Localized Corruptions**  
-ICPR CO 2026
+**ImageNet-LC: Assessing Robustness under Localized Corruptions**  ICPR 2026
 
 ImageNet-LC is an object-centric robustness benchmark for ImageNet. Instead
 of applying corruptions globally to the full image, ImageNet-LC localizes the
@@ -31,7 +30,7 @@ If you use ImageNet-LC in your work, please cite the paper:
 ```bibtex
 @inproceedings{imagenetlc2026,
   title     = {ImageNet-LC: Assessing Robustness under Localized Corruptions},
-  booktitle = {ICPR CO},
+  booktitle = {ICPR},
   year      = {2026}
 }
 ```
