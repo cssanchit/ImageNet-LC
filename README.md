@@ -24,6 +24,12 @@ The main code release is available here:
 Please use the main repository for installation instructions, pipeline usage,
 updates, and issue tracking.
 
+## Dataset
+
+The ImageNet-LC dataset is available on Kaggle:
+
+**https://www.kaggle.com/datasets/sanchitgupta10/imagenet-pc**
+
 ## Citation
 
 If you use ImageNet-LC in your work, please cite the paper:
